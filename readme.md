@@ -3,7 +3,7 @@
 **Tiny real smooth fast cool all events _bring your own tooling slider._ Framework agnostic but it's a you problem.**
 
 # Docs (Core)
-
+ 
 The Core class is a flexible and performant slider/carousel implementation that supports infinite scrolling, snapping, touch interactions, and parallax effects.
 
 ## Installation
